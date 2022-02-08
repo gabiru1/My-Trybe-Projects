@@ -1,6 +1,6 @@
 # My Projects
 
-Guia De links referente aos projetos feitos nos meus estudos na Trybe.
+Guia de links referente aos projetos feitos nos meus estudos na Trybe.
 
 ### 2021
 
