@@ -46,10 +46,14 @@ Projeto de finalização de modulo utilizando todos os conteúdos de front-end -
 
 ## TRYBE - Back end: [ Docker, MySQL, Node.js, TypeScript ]
 
-Projeto de introdução aos comandos Docker - [docker to do list]()
+Projeto de introdução aos comandos Docker - [docker to do list](https://github.com/gabiru1/project-docker-todo-list)
 
-Projeto de introdução aos comandos de mysql - [Mysql all for one]()
+Projeto de introdução aos comandos de mysql - [Mysql all for one](https://github.com/gabiru1/All-for-One)
 
-Projeto de criação e popular um banco de dados SQL - [Mysql one for all]()
+Projeto de criação e popular um banco de dados SQL - [Mysql one for all](https://github.com/gabiru1/One-for-all)
 
-Projeto de criação e utilização de endpoints em Node.js - [Talker manager]()
+Projeto de criação e utilização de endpoints em Node.js - [Talker manager](https://github.com/gabiru1/Talker-Manager)
+
+Projeto de criação de uma API RESTful em Node.js com mySql - [Store manager](https://github.com/gabiru1/Store-Manager)
+
+Projeto de construção de back-end usando ORM sequelize - [Blogs-API](https://github.com/gabiru1/API-de-Blogs)
