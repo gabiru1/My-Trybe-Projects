@@ -57,3 +57,5 @@ Projeto de criação e utilização de endpoints em Node.js - [Talker manager](h
 Projeto de criação de uma API RESTful em Node.js com mySql - [Store manager](https://github.com/gabiru1/Store-Manager)
 
 Projeto de construção de back-end usando ORM sequelize - [Blogs-API](https://github.com/gabiru1/API-de-Blogs)
+
+Projeto de deploy no heroku, back-end e front-end - [back-dw](https://gabiru1-dw.herokuapp.com/) [back-up](https://gabiru1-up.herokuapp.com/) [front](https://gabiru1-ft.herokuapp.com/)
