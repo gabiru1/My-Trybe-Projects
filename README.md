@@ -58,4 +58,4 @@ Projeto de criação de uma API RESTful em Node.js com mySql - [Store manager](h
 
 Projeto de construção de back-end usando ORM sequelize - [Blogs-API](https://github.com/gabiru1/API-de-Blogs)
 
-Projeto de deploy no heroku, back-end e front-end - [back-dw](https://gabiru1-dw.herokuapp.com/) [back-up](https://gabiru1-up.herokuapp.com/) [front](https://gabiru1-ft.herokuapp.com/)
+Projeto de deploy no heroku, back-end e front-end - [back-dw](https://gabiru1-dw.herokuapp.com/) | [back-up](https://gabiru1-up.herokuapp.com/) | [Stranger Thingsd Front-End](https://gabiru1-ft.herokuapp.com/)
