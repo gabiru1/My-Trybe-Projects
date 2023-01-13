@@ -69,3 +69,5 @@ Projeto de aplicação de todos os conceitos aprendidos nos projetos anteriores 
 Projeto de introdução a MongoDB - [commerce](https://github.com/gabiru1/commerce)
 
 Projeto de POO com NoSQL: ODMs, herança e abstração - [Car Shop](https://github.com/gabiru1/carshop)
+
+Projeto de desenvolvimento em equipe(5) front e back-end - [App de delivery](https://github.com/gabiru1/app-de-delivery)
