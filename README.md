@@ -61,3 +61,5 @@ Projeto de construção de back-end usando ORM sequelize - [Blogs-API](https://g
 Projeto de deploy no heroku, back-end e front-end - [back-dw](https://gabiru1-dw.herokuapp.com/) | [back-up](https://gabiru1-up.herokuapp.com/) | [Stranger Thingsd Front-End](https://gabiru1-ft.herokuapp.com/)
 
 Projeto de construção de back-end utilizando Node express com typeScript - [TrybeSmith](https://github.com/gabiru1/trybesmith)
+
+Projeto de POO (programação orientada a objetos) e conceitos solid - [Trybers and Dragons](https://github.com/gabiru1/Trybers-and-Dragons)
