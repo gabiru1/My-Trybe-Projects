@@ -63,3 +63,5 @@ Projeto de deploy no heroku, back-end e front-end - [back-dw](https://gabiru1-dw
 Projeto de construção de back-end utilizando Node express com typeScript - [TrybeSmith](https://github.com/gabiru1/trybesmith)
 
 Projeto de POO (programação orientada a objetos) e conceitos solid - [Trybers and Dragons](https://github.com/gabiru1/Trybers-and-Dragons)
+
+Projeto de aplicação de todos os conceitos aprendidos nos projetos anteriores - [Trybe futebol clube](https://github.com/gabiru1/Trybe-futebol-clube)
