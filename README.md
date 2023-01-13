@@ -71,3 +71,17 @@ Projeto de introdução a MongoDB - [commerce](https://github.com/gabiru1/commer
 Projeto de POO com NoSQL: ODMs, herança e abstração - [Car Shop](https://github.com/gabiru1/carshop)
 
 Projeto de desenvolvimento em equipe(5) front e back-end - [App de delivery](https://github.com/gabiru1/app-de-delivery)
+
+## TRYBE - Back end: [ Python, Padrões, POO, Raspagem de dados, Algoritimos e Estrutura de dados ]
+
+Projeto de introdução a python - [Job insights](https://github.com/gabiru1/Job-insights)
+
+Projeto de padrões em python POO - [Relatórios de estoque](https://github.com/gabiru1/Relat-rios-de-estoque)
+
+Projeto de redes e raspagem de dados - [Tech news](https://github.com/gabiru1/Tech-news)
+
+Projeto de algoritimos em python - [Algoritimos](https://github.com/gabiru1/Algoritimos)
+
+Projeto de estrutura de dados em python - [TING - Trybe is not Google](https://github.com/gabiru1/TING-Trybe-is-not-Google)
+
+Projeto de estrutura de dados II Hashmaps e Sets - [Restaurant Orders](https://github.com/gabiru1/Restaurant-orders)
