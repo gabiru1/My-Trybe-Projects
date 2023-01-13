@@ -67,3 +67,5 @@ Projeto de POO (programação orientada a objetos) e conceitos solid - [Trybers 
 Projeto de aplicação de todos os conceitos aprendidos nos projetos anteriores - [Trybe futebol clube](https://github.com/gabiru1/Trybe-futebol-clube)
 
 Projeto de introdução a MongoDB - [commerce](https://github.com/gabiru1/commerce)
+
+Projeto de POO com NoSQL: ODMs, herança e abstração - [Car Shop](https://github.com/gabiru1/carshop)
