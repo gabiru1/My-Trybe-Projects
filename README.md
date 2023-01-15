@@ -1,4 +1,4 @@
-# My Projects
+# My trybe Projects
 
 Guia de links referente aos projetos feitos nos meus estudos na Trybe.
 
@@ -72,7 +72,7 @@ Projeto de POO com NoSQL: ODMs, herança e abstração - [Car Shop](https://gith
 
 Projeto de desenvolvimento em equipe(5) front e back-end - [App de delivery](https://github.com/gabiru1/app-de-delivery)
 
-## TRYBE - Back end: [ Python, Padrões, POO, Raspagem de dados, Algoritimos e Estrutura de dados ]
+## TRYBE - Ciência da computação: [ Python, Padrões, POO, Raspagem de dados, Algoritimos e Estrutura de dados ]
 
 Projeto de introdução a python - [Job insights](https://github.com/gabiru1/Job-insights)
 
