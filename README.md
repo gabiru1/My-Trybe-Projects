@@ -1,4 +1,4 @@
-# My trybe Projects
+# My Trybe Projects
 
 Guia de links referente aos projetos feitos nos meus estudos na Trybe.
 
